@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nahuel Escujuri</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Nahuel Escujuri</h1>
+<h3 align="center">A Full Stack developer</h3>
 
 <div align="center">
   I am primarily a Full Stack developer with experience and practice in the design, development and implementation of applications and solutions using a variety of technologies and programming languages.
