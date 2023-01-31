@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nahuel Escujuri</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+<div align="center">
+  I am primarily a Full Stack developer with experience and practice in the design, development and implementation of applications and solutions using a variety of technologies and programming languages.
+You can also find that as a hobby I dedicate myself to the creation of video games (They are private) in Unity
+<br />
+<br />
+<br />
+  My goal is to provide a Completely Professional and Organized Full Stack service and Expanding
+ plus my knowledge of programming in how many methodologies and technologies
+</div>
+<br />
+<br />
+
 <p>Connect with me on
 <br>
   
