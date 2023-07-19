@@ -22,7 +22,7 @@ You can also find that as a hobby I dedicate myself to the creation of video gam
 </a>
 &emsp;
 
-<a target="_blank" href="mailto:nahuelescujuri@gmail.com">
+<a target="_blank" href="mailto:nahuelescujurideveloper@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </img>
 </a>
